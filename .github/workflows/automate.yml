@@ -25,6 +25,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip  # Upgrade pip to the latest version
           pip install pytest
+          pip install flask
 
       - name: Run tests
         run: |
