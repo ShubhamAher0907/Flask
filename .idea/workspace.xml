@@ -34,7 +34,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/DA15/Desktop/Flask/Flask",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -60,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723712553151</updated>
-      <workItem from="1723712557540" duration="7916000" />
+      <workItem from="1723712557540" duration="9361000" />
     </task>
     <servers />
   </component>
