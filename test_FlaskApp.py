@@ -8,6 +8,6 @@ def client():  # whenever this function get call flask application will start
 def test_home(client):
     resp=client.get('/')
 
-    assert resp.status_code==200
+    assert resp.status_code==800
 
 
