@@ -27,7 +27,7 @@ using the pytest framework. The purpose of these tests is to verify that the app
 **test_app.py:** This file contains the test cases for the Flask application using pytest.
 
 # Explanation
-**1. Importing Required Modules**
+# 1. Importing Required Modules**
 
 **import pytest**: Imports the pytest framework, which is used for running the test cases. 
                    pytest simplifies the process of writing and executing tests and provides useful features like fixtures and test discovery.
