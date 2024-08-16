@@ -1,5 +1,6 @@
 from flask import Flask
-app = Flask(__name__)
+app = Flask(__name__) # this app object we will use in test cases insted of using each function
+
 @app.route('/')  # Default route . This is the root path through which we access the first page (https://facebook.com is root path)
 def hello():
     return 'Hey this is my first Flask app!'
