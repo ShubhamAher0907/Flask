@@ -1,4 +1,4 @@
-# Flask
+# Testing of square function with pytest
  
 ![img.png](img.png)
 
